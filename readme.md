@@ -40,6 +40,7 @@ Printed Body
 This keyboard uses [QMK firmware](https://qmk.fm/).
 
 If you flash the VIA firmware then the board can be programmed with [VIA](https://www.caniusevia.com/).
+
 I have included a keyboard.JSON file for uploading into the Design tab on VIA.
 
 You can find everything you need to build a firmware for this board in the [KeyDeck8 QMK Repository](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/maverick0197/keydeck8).
