@@ -11,7 +11,7 @@ It runs on QMK and is VIA compatible.
 The board was originally designed by obscuresausage ([link to his files](https://www.printables.com/model/389352-multimedia-key-deck)) and the firmware was written by myself.
 
 
-
+---
 Wiring Diagram:
 
 ![KeyDeck8 Wiring Diagram](https://i.imgur.com/1sOvYRUm.jpg)
@@ -22,17 +22,17 @@ Pinouts for Pro Micro:
 
 # Hardware
 
-1 x ProMicro
+* 1 x ProMicro
 
-1 x KY040 encoder
+* 1 x KY040 encoder
 
-8 x Key Switches
+* 8 x Key Switches
 
-8 x Key Caps
+* 8 x Key Caps
 
-2 x M3x6mm Screws
+* 2 x M3x6mm Screws
 
-Printed Body
+* Printed Body
 
 
 # Firmware
