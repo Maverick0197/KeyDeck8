@@ -43,6 +43,8 @@ Initial release.
 
 
 ---
+--
+-
 Wiring Diagram:
 
 ![KeyDeck8 Wiring Diagram](https://i.imgur.com/1sOvYRUm.jpg)
