@@ -11,7 +11,8 @@ It runs on QMK and is VIA compatible.
 The board was originally designed by obscuresausage ([link to his files](https://www.printables.com/model/389352-multimedia-key-deck)) and the firmware was written by myself.
 
 
-# Hardware
+Hardware:
+-
 
 * 1 x ProMicro
 
@@ -26,7 +27,8 @@ The board was originally designed by obscuresausage ([link to his files](https:/
 * Printed Body
 
 
-# Firmware
+Firmware:
+-
 
 This keyboard uses [QMK firmware](https://qmk.fm/).
 
@@ -38,7 +40,9 @@ You can find everything you need to build a firmware for this board in the [KeyD
 
 I have included pre-compiled hex files for flashing the KeyDeck8 in the Default and VIA folders.
 
-# Revision 0.0.1
+
+Revision 0.0.1:
+-
 Initial release.
 
 
