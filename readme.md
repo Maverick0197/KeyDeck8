@@ -6,22 +6,20 @@
 
 The KeyDeck8 is a small, direct wired, macro pad with 8 keys and 1 encoder powered by a ProMicro.
 
-It is powered by QMK and is VIA compatible.
+It runs on QMK and is VIA compatible.
 
-The board was originally designed by obscuresausage (link to his files below) and the firmware was written by myself.
+The board was originally designed by obscuresausage [link to his files](https://www.printables.com/model/389352-multimedia-key-deck) and the firmware was written by myself.
 
-
-[Multimedia Key Deck model Files](https://www.printables.com/model/389352-multimedia-key-deck)
 
 
 Wiring Diagram:
 
-![KeyDeck8 Wiring Diagram](https://i.imgur.com/1sOvYRUl.jpg)
+![KeyDeck8 Wiring Diagram](https://i.imgur.com/1sOvYRUm.jpg)
 
 
 Pinouts for Pro Micro:
 
-![Promicro Pinout Guide](https://i.imgur.com/LZ194Hfl.jpg)
+![Promicro Pinout Guide](https://i.imgur.com/LZ194Hfm.jpg)
 
 
 # Hardware
