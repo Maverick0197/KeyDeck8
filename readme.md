@@ -42,7 +42,7 @@ I have included pre-compiled hex files for flashing the KeyDeck8 in the Default 
 Initial release.
 
 
--
+--
 Wiring Diagram:
 
 ![KeyDeck8 Wiring Diagram](https://i.imgur.com/1sOvYRUm.jpg)
