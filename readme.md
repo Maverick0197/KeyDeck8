@@ -9,6 +9,8 @@ It runs on QMK and is VIA compatible.
 
 The board was originally designed by obscuresausage ([link to his files](https://www.printables.com/model/389352-multimedia-key-deck)) and the firmware was written by myself.
 
+([Link to my remix of some of OS's parts](https://www.printables.com/model/413002-multimedia-key-deck-base-remix))
+
 
 Hardware:
 -
